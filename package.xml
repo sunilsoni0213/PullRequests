@@ -1334,6 +1334,8 @@
         <members>Task.Type</members>
         <members>Task.WhatId</members>
         <members>Task.WhoId</members>
+        <members>TexasFCS_Object__c.TexasFCSCheckbox__c</members>
+        <members>TexasFCS__c.TexasFCSField__c</members>
         <members>TimeSlot.DayOfWeek</members>
         <members>TimeSlot.EndTime</members>
         <members>TimeSlot.MaxAppointments</members>
@@ -1503,6 +1505,8 @@
         <members>StreamActivityAccess</members>
         <members>StreamingChannel</members>
         <members>Task</members>
+        <members>TexasFCS_Object__c</members>
+        <members>TexasFCS__c</members>
         <members>TimeSlot</members>
         <members>Topic</members>
         <members>TopicAssignment</members>
@@ -1644,6 +1648,8 @@
         <members>SkillRequirement-Skill Requirement Layout</members>
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
+        <members>TexasFCS_Object__c-TexasFCSObject Layout</members>
+        <members>TexasFCS__c-TexasFCS Layout</members>
         <members>TimeSlot-Time Slot Layout</members>
         <members>User-User Layout</members>
         <members>UserProvAccount-User Provisioning Account Layout</members>
@@ -1853,6 +1859,8 @@
         <name>RemoteSiteSetting</name>
     </types>
     <types>
+        <members>unfiled$public/Reports_TexasFCS_3IH</members>
+        <members>unfiled$public/TexasF_RmY</members>
         <members>unfiled$public/flow_screen_prebuilt_report</members>
         <name>Report</name>
     </types>
