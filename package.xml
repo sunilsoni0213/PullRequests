@@ -1064,6 +1064,8 @@
         <members>Product2.StockKeepingUnit</members>
         <members>ProductConsumptionSchedule.ConsumptionScheduleId</members>
         <members>ProductConsumptionSchedule.ProductId</members>
+        <members>QLIKTECH2__c.QLIKTECH3cb__c</members>
+        <members>QLIKTECH_Object__c.Checkbox_QLIKTech__c</members>
         <members>QuickText.Category</members>
         <members>QuickText.Channel</members>
         <members>QuickText.IsInsertable</members>
@@ -1470,6 +1472,8 @@
         <members>Product2</members>
         <members>ProductConsumptionSchedule</members>
         <members>PromptAction</members>
+        <members>QLIKTECH2__c</members>
+        <members>QLIKTECH_Object__c</members>
         <members>QuickText</members>
         <members>QuickTextUsage</members>
         <members>Recommendation</members>
