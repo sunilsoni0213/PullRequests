@@ -1472,6 +1472,7 @@
         <members>Product2</members>
         <members>ProductConsumptionSchedule</members>
         <members>PromptAction</members>
+        <members>Pull_Request__c</members>
         <members>QLIKTECH2__c</members>
         <members>QLIKTECH_Object__c</members>
         <members>QuickText</members>
@@ -1624,6 +1625,7 @@
         <members>ProcessException-Process Exception Layout</members>
         <members>Product2-Product Layout</members>
         <members>ProductConsumptionSchedule-Product Consumption Schedule Layout</members>
+        <members>Pull_Request__c-Pull Request Layout</members>
         <members>QuickText-Quick Text Layout</members>
         <members>Refund-Refund Layout</members>
         <members>RefundLinePayment-Refund Line Payment Layout</members>
