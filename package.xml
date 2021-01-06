@@ -755,6 +755,7 @@
         <members>InvoiceLine.TaxRate</members>
         <members>InvoiceLine.Type</members>
         <members>InvoiceLine.UnitPrice</members>
+        <members>LLC_BI__Product_Line__c.product_line_text__c</members>
         <members>Lead.Address</members>
         <members>Lead.AnnualRevenue</members>
         <members>Lead.CampaignId</members>
@@ -1543,6 +1544,7 @@
     <types>
         <members>LightningSalesConsole_UtilityBar</members>
         <members>LightningService_UtilityBar</members>
+        <members>Product_Line_Layout</members>
         <name>FlexiPage</name>
     </types>
     <types>
