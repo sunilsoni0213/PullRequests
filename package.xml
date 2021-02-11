@@ -1517,6 +1517,7 @@
         <members>WorkType</members>
         <members>WorkTypeGroup</members>
         <members>WorkTypeGroupMember</members>
+        <members>pull_request2__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -1660,6 +1661,7 @@
         <members>WorkType-Work Type Layout</members>
         <members>WorkTypeGroup-Work Type Group Layout</members>
         <members>WorkTypeGroupMember-Work Type Group Member Layout</members>
+        <members>pull_request2__c-pull request2 Layout</members>
         <name>Layout</name>
     </types>
     <types>
